@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/permata-test/static/css/main.a617e044.chunk.css",
-    "main.js": "/permata-test/static/js/main.aba1f820.chunk.js",
-    "main.js.map": "/permata-test/static/js/main.aba1f820.chunk.js.map",
-    "runtime-main.js": "/permata-test/static/js/runtime-main.18b279c9.js",
-    "runtime-main.js.map": "/permata-test/static/js/runtime-main.18b279c9.js.map",
-    "static/js/2.e79c24b3.chunk.js": "/permata-test/static/js/2.e79c24b3.chunk.js",
-    "static/js/2.e79c24b3.chunk.js.map": "/permata-test/static/js/2.e79c24b3.chunk.js.map",
-    "static/js/3.517f5b60.chunk.js": "/permata-test/static/js/3.517f5b60.chunk.js",
-    "static/js/3.517f5b60.chunk.js.map": "/permata-test/static/js/3.517f5b60.chunk.js.map",
+    "main.js": "/permata-test/static/js/main.63961adb.chunk.js",
+    "main.js.map": "/permata-test/static/js/main.63961adb.chunk.js.map",
+    "runtime-main.js": "/permata-test/static/js/runtime-main.7599fbca.js",
+    "runtime-main.js.map": "/permata-test/static/js/runtime-main.7599fbca.js.map",
+    "static/css/2.f2512455.chunk.css": "/permata-test/static/css/2.f2512455.chunk.css",
+    "static/js/2.6c2894ef.chunk.js": "/permata-test/static/js/2.6c2894ef.chunk.js",
+    "static/js/2.6c2894ef.chunk.js.map": "/permata-test/static/js/2.6c2894ef.chunk.js.map",
+    "static/js/3.6ec1a1ed.chunk.js": "/permata-test/static/js/3.6ec1a1ed.chunk.js",
+    "static/js/3.6ec1a1ed.chunk.js.map": "/permata-test/static/js/3.6ec1a1ed.chunk.js.map",
     "index.html": "/permata-test/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/permata-test/static/css/2.f2512455.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/permata-test/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.e79c24b3.chunk.js.LICENSE.txt": "/permata-test/static/js/2.e79c24b3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/permata-test/static/media/logo.6ce24c58.svg"
+    "static/js/2.6c2894ef.chunk.js.LICENSE.txt": "/permata-test/static/js/2.6c2894ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.18b279c9.js",
-    "static/js/2.e79c24b3.chunk.js",
+    "static/js/runtime-main.7599fbca.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.6c2894ef.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.aba1f820.chunk.js"
+    "static/js/main.63961adb.chunk.js"
   ]
 }
